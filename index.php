@@ -29,9 +29,9 @@
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
             <ul class="nav navbar-nav  navbar-right">
-                <li  class="active"><a href="#">Jaunumi</a></li>
+                <li  class="active"><a href="index.php">Jaunumi</a></li>
                 <li><a href="">Kontakti</a></li>
-                <li><a href="">Saziņa</a></li>
+                <li><a href="sazina.php">Saziņa</li>
             </ul>
         </div>
     </div>

@@ -31,6 +31,7 @@
             <ul class="nav navbar-nav  navbar-right">
                 <li  class="active"><a href="#">Jaunumi</a></li>
                 <li><a href="">Kontakti</a></li>
+                <li><a href="">Saziņa</a></li>
             </ul>
         </div>
     </div>

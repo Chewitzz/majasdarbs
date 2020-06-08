@@ -35,9 +35,9 @@ error_reporting(E_ALL);
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
             <ul class="nav navbar-nav  navbar-right">
-                <li><a href="index.php">Jaunumi</a></li>
-                <li><a href="">Kontakti</a></li>
-                <li class="active"><a href="">Saziņa</a></li>
+                <li><a href="index">Jaunumi</a></li>
+                <li><a href="kontakti">Kontakti</a></li>
+                <li class="active"><a href="sazina">Saziņa</a></li>
             </ul>
         </div>
     </div>
